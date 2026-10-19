@@ -3,6 +3,7 @@ public class HelloGit {
 <<<<<<< HEAD
 =======
 System.out.println("Hello there, " + args[0] + "!") 
+System.out.println("How are you?")
 >>>>>>> feature/greeting
  }
 }
